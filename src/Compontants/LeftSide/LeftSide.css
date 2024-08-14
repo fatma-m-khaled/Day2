@@ -1,0 +1,11 @@
+#LeftSideDiv{
+    width: 50%;
+    height: 100%;
+
+}
+#LeftSideDiv >img{
+    width: 100%;
+    height: 100%;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+}

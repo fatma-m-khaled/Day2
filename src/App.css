@@ -1,0 +1,9 @@
+#main{
+    width: 45%;
+    height: 370px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+}
